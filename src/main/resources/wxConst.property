@@ -1,0 +1,11 @@
+#个人公众号
+#appid=wx7fdde328818cdb99
+#secret=13ce44a1834d4d15d44745761c2fdedd
+#博思APP公众号
+appid=wx06dd9edf269b277a
+secret=6faab6170c0242d3d9fd6044e330dbe2
+oauth2_redirect_uri=
+wx_jsapi_debug=false
+
+
+https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx7fdde328818cdb99&redirect_uri=https%3A%2F%2Fxwltest.ngrok.xiaomiqiu.cn%2FbusinessIntegration%2Fwx%2Fsignup%2Fqrcode&response_type=code&scope=snsapi_base&state=123#wechat_redirect
